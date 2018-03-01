@@ -13,16 +13,10 @@ To run this application, you will have to have Node.js and MongoDB installed on 
 
 Then you can proceed to the next steps:
 
- 1. Clone the repo either from GitHub or Heroku:
+ 1. Clone the repo either from GitHub:
 
   ```sh
-  git clone https://github.com/hackpurdue/courseswebpage.git
-  ```
-
-  or Heroku (this is not recommended, but it will still work as long you have access to the project):
-
-  ```sh
-  git clone https://git.heroku.com/ironhackplatform.git courseswebpage
+  git clone https://github.com/RCODI/purdue-ironhacks.git
   ```
 
   **Note**: This is not recommended because the code pushed to Heroku is a little
