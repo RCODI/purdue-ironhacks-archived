@@ -39,7 +39,7 @@ Then you can proceed to the next steps:
  2. Open the folder:
 
   ```sh
-  cd courseswebpage
+  cd purdue-ironhacks
   ```
 
  3. Install the dependencies:
